@@ -1,0 +1,17 @@
+{
+    "name": "xidonett/xml2json",
+    "description": "Easily convert XML to JSON and vice versa!",
+    "type": "library",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Xidonett\\Xml2json\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Volodymyr Horiainov"
+        }
+    ],
+    "require": {}
+}
